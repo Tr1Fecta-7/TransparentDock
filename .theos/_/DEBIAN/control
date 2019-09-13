@@ -1,0 +1,10 @@
+Package: com.tr1fecta.transparentdock
+Name: TransparentDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A tweak to make the background of the dock transparent
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Tweaks
+Version: 1.0
+Installed-Size: 104
