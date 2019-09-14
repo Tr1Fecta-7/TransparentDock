@@ -1,4 +1,5 @@
 *.xm linguist-detectable=true
 Makefile linguist-generated=true
 *.mm linguist-generated=true
+*.xm.mm linguist-generated=true
 *.plist linguist-generated=true
